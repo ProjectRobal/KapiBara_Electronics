@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "2f738f95-7f2b-4813-a331-56ad71127112")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 125.73 35.56)
+		(size 28.575 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "301f3460-9389-4add-9149-6cba347f6241")
+		(property "Sheetname" "CANBUS"
+			(at 125.73 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "canbus.kicad_sch"
+			(at 125.73 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Modus"
+				(path "/2f738f95-7f2b-4813-a331-56ad71127112"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 34.925)
+		(size 31.75 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a900448e-eb0c-44bf-8dc5-fa265431f16c")
+		(property "Sheetname" "Power"
+			(at 40.64 34.2134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 40.64 55.8296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Modus"
+				(path "/2f738f95-7f2b-4813-a331-56ad71127112"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 35.56)
+		(size 29.845 19.685)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e8363eac-708e-4b18-9718-19e3076f127a")
+		(property "Sheetname" "Connectors"
+			(at 85.09 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 85.09 55.8296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Modus"
+				(path "/2f738f95-7f2b-4813-a331-56ad71127112"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

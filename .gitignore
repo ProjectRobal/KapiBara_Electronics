@@ -1,0 +1,13 @@
+BOM
+Gerbers
+*-backups
+*cache
+*.csv
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.ods
+*.step

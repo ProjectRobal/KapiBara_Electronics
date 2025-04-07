@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "198a8b93-d4d2-4ece-a45e-b2e33298c67e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 51.435 57.15)
+		(size 30.48 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0c41c39c-5fa9-4f81-82a2-944d35a16623")
+		(property "Sheetname" "Connector"
+			(at 51.435 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connector.kicad_sch"
+			(at 51.435 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TWINGO"
+				(path "/198a8b93-d4d2-4ece-a45e-b2e33298c67e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 57.785)
+		(size 27.94 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "37571e0b-f761-4a65-9c05-1eb79206c7fb")
+		(property "Sheetname" "MCU"
+			(at 101.6 57.0734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 101.6 85.0396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TWINGO"
+				(path "/198a8b93-d4d2-4ece-a45e-b2e33298c67e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 100.965)
+		(size 24.13 20.955)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "72e3cd6b-4308-480c-bda0-28d3416f0597")
+		(property "Sheetname" "CAN"
+			(at 53.34 100.2534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 53.34 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TWINGO"
+				(path "/198a8b93-d4d2-4ece-a45e-b2e33298c67e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.225 59.055)
+		(size 31.75 26.035)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "77654dcf-3e10-4064-ad4b-ca400858d965")
+		(property "Sheetname" "POWER"
+			(at 149.225 58.3434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 149.225 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TWINGO"
+				(path "/198a8b93-d4d2-4ece-a45e-b2e33298c67e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.695 100.965)
+		(size 22.86 20.955)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f935783f-8ac8-4d3c-b2cd-f5e165d9de10")
+		(property "Sheetname" "PIEZO_INPUTS"
+			(at 99.695 100.2534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 99.695 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TWINGO"
+				(path "/198a8b93-d4d2-4ece-a45e-b2e33298c67e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
